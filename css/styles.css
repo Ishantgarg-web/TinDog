@@ -1,0 +1,157 @@
+body{
+	font-family: "Montserrat-Black";
+}
+
+/*************************  NAVBAR BRAND ***************************/
+.navbar-brand{
+	font-family: "Ubuntu";
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+.navbar{
+	padding:0 0 4.5rem;
+}
+.nav-item{
+	padding:0px 18px;
+}
+.nav-link{
+	font-size: 1.2rem;
+	font-family: "Montserrat-Light";
+}
+/***********************  TITLE  *****************/
+#title{
+	background-color: #ff4c68;
+}
+.container-fluid{
+	padding: 3% 15%;
+}
+.title-text{
+	font-family: "Montserrat-Black";
+	font-weight: bold;
+	font-size: 3.5em;
+	line-height: 1.5;
+	color: white;
+	margin-bottom: 40px;
+}
+
+/********************  TITLE BUTTON *************************/
+.download-btn{
+	margin:10px 20px 20px 0px;
+}
+
+/************************* TITLE IMAGE  **********************/
+.title-img{
+	width: 60%;
+	transform: rotate(25deg);
+}
+
+
+/**********************  FEATURES  *******************/
+#features{
+	padding: 7% 15%;
+	text-align: center;
+}
+.feature-box{
+	text-align: center;
+	padding: 3% 6%;
+}
+.features-heading{
+	font-style: "Montserrat-Black";
+	font-weight: bold;
+}
+.features-text{
+	color: grey;
+}
+.features-icon{
+	color: #ef8172;
+	margin-bottom: 4%;
+}
+.features-icon:hover{
+	color: #ff4c68;
+}
+
+
+/*******************  TESTINOMIALS  *********************/
+#testimonials{
+	text-align: center;
+	background-color: #ef8172;
+	color: #fff;
+}
+.testimonials-heading{
+	font-family: "Montserrat-Black";
+	font-size: 3rem;
+	line-height: 1.5;
+}
+.testimonial-image{
+	width: 10%;
+	border-radius: 100%;
+	margin: 20px;
+}
+.carousel-item{
+	padding: 7% 15%;
+}
+
+/**************** PRESS  *********************************/
+#press{
+	background-color: #ef8172;
+	text-align: center;
+	padding-bottom: 3%;
+}
+.press-logo{
+	width: 15%;
+	margin: 20px 20px 50px;
+}
+
+/******************************* PRICING ***********/
+#pricing{
+	padding: 5% 10%;
+	text-align: center;
+}
+.pricing-main-heading{
+	font-family: "Montserrat-Black";
+	font-size: 3rem;
+}
+.pricing-main-text{
+	font-size: 20px;
+	color: grey;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.card{
+	margin: 10px;
+}
+.card-heading{
+	font-family: "Montserrat-Black";
+	font-weight: bold;
+}
+.card-body-heading{
+	font-weight: bold;
+}
+
+/**************************  CTA  ******************/
+#cta{
+	background-color: #ef8172;
+	padding: 7% 15%;
+	text-align: center;
+}
+
+
+/*************************** FOOTER *****************/
+#footer{
+	text-align: center;
+	padding: 5% 15%;
+}
+.footer-icons{
+	font-size: 25px;
+	margin: 15px;
+	cursor: pointer;
+}
+.footer-text{
+	font-size: 15px;
+}
+.footer-text-ishant{
+	font-size: 25px;
+}
+.fa-heart{
+	color: blue;
+}
